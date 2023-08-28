@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pushpkumar Deshmukh 
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently working ... ReactJs, Bootstrap, NodeJs, MongoDB, Javascript, HTML5, CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working ... ReactJs, Bootstrap, NodeJs, MongoDB, Javascript, HTML5, CSS 
 - 📫 reach me ... pushpkumar.deshmukh2023@gmail.com
 
 <!---
